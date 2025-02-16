@@ -1,0 +1,56 @@
+How to become a good Data Engineer
+
+Prerequisites 
+---------------------
+1. Programming fundamentals 
+2. SQL Basics
+
+You should learn the below things
+--------------------------------------
+1. Distributed Computing Fundamentals
+2. Data Lake Concepts
+3. One data ingestion tool
+4. DWH concepts 
+5. One NOSQL Database (good to know not mandatory)
+6. In-memory computation using Apache Spark (pyspark)
+7. Structured Streaming with Kafka for real time data
+8. One of the Cloud - AWS/Azure/GCP (knowing multi cloud is a add on)
+10. Integration of various components
+11. One Scheduling/Monitoring tool 
+12. CICD for production readiness
+13. Do a couple of projects to get a good feel of it.
+
+If you are looking to learn AWS cloud then learn the below technologies
+
+EMR
+Redshift
+Athena
+Glue
+S3
+Lambda
+EC2
+
+If you are looking to learn Azure then try learning the below
+
+ADLS gen2
+Azure Databricks
+Azure Data Factory
+Synapse
+
+If you are having 8+ years experience then focus on -
+Performance Tuning Part & Design Aspects
+
+If you are targeting Top Product based companies then 
+Data Structures & Algorithm is also very important.
+Arrays, LinkedList & Trees should be good enough.
+
+Just to get confidence check a few mock interviews on my youtube channel and that should be the final level of confidence you need.
+
+Remember, don't just learn to prepare for interviews.
+your objective should be to effectively work on projects.
+
+So it's important to focus more on internals & this will be the best way to be interview ready also!
+
+If I am missing anything please feel free to add in comments.
+
+PS~ I follow similar roadmap in my Ultimate Big Data Program. New batch starting tomorrow. DM to know more.
