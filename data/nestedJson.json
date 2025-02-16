@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Deepak Kumar",
+      "age": 40,
+      "department": {
+        "id": 101,
+        "name": "Engineering"
+      },
+      "skills": ["Python","Azure","Sql"],
+      "address": {
+        "city" : "Bangalore",
+        "state": "Karnataka"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Nitika Kumar",
+      "age": 35,
+      "department": {
+        "id": 102,
+        "name": "AI"
+      },
+      "skills": ["ML"],
+      "address": {
+        "city" : "Noida",
+        "state": "UP"
+      }
+    }
+  ]
+}
